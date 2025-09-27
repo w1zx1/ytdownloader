@@ -5,6 +5,7 @@ a simple video downloader from youtube that downloads videos in mp4 using [yt-dl
 [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 
 [google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
+
 2. open youtube and open a random video
 3. open cookie-editor
 ![Imgur](https://i.imgur.com/N2JeX0S.png)
