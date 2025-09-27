@@ -1,5 +1,5 @@
 # ytdownloader
-a simple video downloader from youtube that downloads videos in mp4 using [yt-dlp](https://github.com/yt-dlp/yt-dlp) (and does nothing more!)
+a simple video downloader from youtube that downloads videos in mp4 or mp3 using [yt-dlp](https://github.com/yt-dlp/yt-dlp) (and does nothing more!)
 # how to use with vpn or if you getting antibot error (very easy)
 1. get cookie-editor: [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/) or [google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
 
