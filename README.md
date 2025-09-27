@@ -7,13 +7,13 @@ a simple video downloader from youtube that downloads videos in mp4 using [yt-dl
 [google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
 2. open youtube and open a random video
 3. open cookie-editor
-[Imgur](https://imgur.com/N2JeX0S)
+![Imgur](https://imgur.com/N2JeX0S)
 4. export your cookies as netscape
-[Imgur](https://imgur.com/2DviUFR)
+![Imgur](https://imgur.com/2DviUFR)
 5. find "cookies.txt"
-[Imgur](https://imgur.com/omv1MRC)
+![Imgur](https://imgur.com/omv1MRC)
 6. paste your exported cookies there
-[Imgur](https://imgur.com/UepHKZa)
+![Imgur](https://imgur.com/UepHKZa)
 7. done! you can use it now
 # additional
 choose 1080p when you really need it, as videos over 720p will require recoding to mp4 (takes kinda long time)
