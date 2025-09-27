@@ -3,9 +3,9 @@ a simple video downloader from youtube that downloads videos in mp4 using [yt-dl
 # how to use with vpn or if you getting antibot error (very easy)
 1. get cookie-editor
 
-[firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
+  [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 
-[google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
+  [google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
 
 2. open youtube and open a random video
 
