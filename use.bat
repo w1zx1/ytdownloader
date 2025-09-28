@@ -8,7 +8,7 @@ set /p format_choice=enter choice (1-2):
 
 if "%format_choice%"=="1" (
     echo extracting audio as MP3...
-    bin\yt-dlp.exe --cookies "bin\cookies.txt" --ffmpeg-location "bin\ffmpeg\bin" -x --audio-format mp3 %url%
+    bin\yt-dlp.exe --cookies "cookies.txt" --ffmpeg-location "bin\ffmpeg\bin" -x --audio-format mp3 %url%
     set result=%errorlevel%
     goto check_result
 ) else if "%format_choice%"=="2" (
@@ -22,7 +22,7 @@ if "%format_choice%"=="1" (
     if "%quality_choice%"=="2" set format="best[ext=mp4][height<=720]"
     if "%quality_choice%"=="3" set format="best[ext=mp4][height<=480]"
 
-    bin\yt-dlp.exe --cookies "bin\cookies.txt" --ffmpeg-location "bin\ffmpeg\bin" -f %format% %url%
+    bin\yt-dlp.exe --cookies "cookies.txt" --ffmpeg-location "bin\ffmpeg\bin" -f %format% %url%
     set result=%errorlevel%
     goto check_result
 )
