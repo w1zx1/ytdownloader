@@ -1,7 +1,7 @@
 # ytdownloader
 a simple video downloader from youtube that downloads videos in mp4 or mp3 using [yt-dlp](https://github.com/yt-dlp/yt-dlp) (and does nothing more!)
 # warning
-choose 1080p when you really need it, as videos over 720p will require recoding to mp4 (takes some time and makes your pc unusable while its going)
+### choose 1080p when you really need it, as videos over 720p will require recoding to mp4 (takes some time and makes your pc unusable while its going)
 ## how to use with vpn or if you getting antibot error
 1. get cookie-editor: [firefox](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/) or [google chrome](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?pli=1)
 
