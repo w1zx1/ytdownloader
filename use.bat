@@ -1,2 +1,2 @@
 @echo off
-powershell -NoProfile -ExecutionPolicy Bypass -File "bin\startgui.ps1"
+powershell -NoProfile -ExecutionPolicy Bypass -File "bin\loadandrun.ps1"
