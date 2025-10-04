@@ -1,9 +1,9 @@
 # ytdownloader
 a simple video downloader from youtube that downloads videos in mp4 or mp3 using [yt-dlp](https://github.com/yt-dlp/yt-dlp) (and does nothing more!)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/w1zx1/ytdownloader/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/w1zx1/ytdownloader/total?labelColor=%23282929&color=%231a1a1a)
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/w1zx1/ytdownloader/latest/total)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/w1zx1/ytdownloader/latest/total?labelColor=%23282929&color=%231a1a1a)
 
 # warning
 ### choose 1080p when you really need it, as videos over 720p will require recoding to mp4 (takes some time and makes your pc unusable while its going)
